@@ -7,6 +7,7 @@ Parser haritanın kontrollerini sağladığımız kısımdır. Bu kısmında dik
 1. Harita dikdörtgen şeklinde olmalıdır.
 2. Harita da bir oyuncu olmalıdır.
 3. Haritanın dört bir tarafı duvarlarla çevrili olmak zorundadır.
-4. Haritada bir exit en az bir de collectible olmak durumundadır.
-5. Oyuncu exit'a ve var olan collectible'lara erişebilmeledir.
+4. Player duvarlardan geçmemelidir.
+5. Haritada bir exit en az bir de collectible olmak durumundadır.
+6. Oyuncu exit'a ve var olan collectible'lara erişebilmeledir.
 Mlx kısmında ise haritanızı pencereye taşıyıp klavye tuşları ile hareketleri kontrol etmenizi sağlayacak temel mlx kütüphanesindeki fonksiyonları kullanmalısınız.
